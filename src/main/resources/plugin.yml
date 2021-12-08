@@ -1,0 +1,7 @@
+name: HorseChecker-Plugin
+version: ${project.version}
+main: com.tyonakaisan.github.horsecheckerplugin.HorseCheckerPlugin
+api-version: 1.18
+
+commands:
+  hch:

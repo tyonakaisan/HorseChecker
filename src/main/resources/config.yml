@@ -1,0 +1,13 @@
+# "Item" にはウマのステータス確認したりする時に使うアイテムを
+Item: "GOLDEN_CARROT"
+
+# "CancelBreeding" はウマが体力MAXかつ繫殖クールタイムの時にアイテムをパクパク食べないようにする(kinamusumeprettyからの要望)
+CancelBreeding: "true"
+
+Messages:
+  Speed: "true"
+  Jump: "true"
+  Health: "true"
+  Tame: "false"
+  Age: "true"
+  Owner: "true"
