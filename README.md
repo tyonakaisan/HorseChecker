@@ -1,1 +1,3 @@
-# HorseChekcer
+# HorseChekcer Plugin
+
+ウマのステータスが見れます
